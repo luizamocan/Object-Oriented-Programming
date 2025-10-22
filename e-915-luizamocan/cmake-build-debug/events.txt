@@ -1,0 +1,6 @@
+Luiza,Music Festival,nice music,10.0,10.0,2025-07-01
+Bob,Swimming,warm water,12.5,11.2,2025-07-03
+Luiza,Reading,nice books,4.0,3.5,2025-06-29
+Bob,Paintings,nice gallery,50.0,50.0,2025-07-10
+Ana,Dance,aa,4.8,6.9,2025-09-12
+Ana,aa,aa,3.5,100.2,2025-07-12
