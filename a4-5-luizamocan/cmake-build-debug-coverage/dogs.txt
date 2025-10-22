@@ -1,0 +1,7 @@
+Bella,Golden Retriever,https://www.zooplus.ro/ghid/wp-content/uploads/2022/07/Golden-retriever-descriere-generala.webp,5
+Max,German Shepherd,https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg,7
+Charlie,Beagle,https://www.zooplus.ro/ghid/wp-content/uploads/2021/07/despre-beagle.webp,4
+Daisy,Poodle,https://image.petmd.com/files/styles/978x550/public/2023-01/toy-poodle.jpg,3
+Lola,Cocker Spaniel,https://www.akc.org/wp-content/uploads/2017/11/English-Cocker-Spaniel-Slide03.jpg,6
+Toby,Border Collie,https://www.bellaandduke.com/wp-content/uploads/2024/10/Border-collie-owners-dog-breed-guide-1.png,4
+Kara,Golden Retriever,https://www.megapet.ro/continut/upload/Rasa-Golden-Retriever.jpg,7
