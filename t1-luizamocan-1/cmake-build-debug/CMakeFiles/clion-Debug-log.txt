@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S "/mnt/c/Users/Mocan Luiza/Documents/GitHub/t1-luizamocan-1" -B "/mnt/c/Users/Mocan Luiza/Documents/GitHub/t1-luizamocan-1/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: /mnt/c/Users/Mocan Luiza/Documents/GitHub/t1-luizamocan-1/cmake-build-debug
