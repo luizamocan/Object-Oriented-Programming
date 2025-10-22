@@ -1,0 +1,5 @@
+C:/Users/Mocan Luiza/Documents/GitHub/t3-luizamocan/cmake-build-debug/CMakeFiles/t3_luizamocan.dir
+C:/Users/Mocan Luiza/Documents/GitHub/t3-luizamocan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mocan Luiza/Documents/GitHub/t3-luizamocan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Mocan Luiza/Documents/GitHub/t3-luizamocan/cmake-build-debug/CMakeFiles/t3_luizamocan_autogen_timestamp_deps.dir
+C:/Users/Mocan Luiza/Documents/GitHub/t3-luizamocan/cmake-build-debug/CMakeFiles/t3_luizamocan_autogen.dir
