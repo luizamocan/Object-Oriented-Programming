@@ -1,0 +1,3 @@
+C:/Users/Mocan Luiza/Documents/GitHub/a1-luizamocan-1/cmake-build-debug/CMakeFiles/a1_luizamocan_1.dir
+C:/Users/Mocan Luiza/Documents/GitHub/a1-luizamocan-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mocan Luiza/Documents/GitHub/a1-luizamocan-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
